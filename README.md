@@ -1,4 +1,5 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/jaymvyas/JAY7043/assets/149396891/81a2b600-f78e-475e-bc8c-859d8aa2cd82)
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/jaymvyas/jaymvyas/assets/149396891/df6a1e86-b6c0-4a05-b53f-24d8dbc0993e)
+
 
 <h1 align="center">Hi 👋, I'm Jay Vyas</h1>
 <h3 align="center">A passionate data analyst/data scientist from India</h3>
