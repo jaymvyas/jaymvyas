@@ -10,18 +10,18 @@
 
 - 🌱 I’m currently learning **Keras, Machine Learning**
 
-- 💬 Ask me about **Python, SQL, NumPy, Pandas, PyTorch, TensorFlow**
+- 💬 Ask me about **Python, SQL, NumPy, Pandas, Data Visualisation, Google Cloud, Looker Studio**
 
 - 📫 How to reach me **jayvyas2291999@gmail.com**
 
-- 📄 Know about my experiences **I have previously worked at TCS (Tata Consultancy Services) as a financial analyst.**
+- 📄 Know about my experiences **I worked as a financial analyst at TCS (Tata Consultancy Services).**
 
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/jaymvyas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jaymvyas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manthan-vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-vyas" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/jay-vyas229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-vyas229" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/xmanthanvyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xmanthanvyas" height="30" width="40" /></a>
 </p>
 
